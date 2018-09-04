@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    margin: 50px;
+    padding: 50px;
+}
+
+#textResult {
+    margin: 50px;
+}
